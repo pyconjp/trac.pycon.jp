@@ -8,3 +8,6 @@ www
 var/db
 var/files
 var/log
+*~
+*.orig
+*.bak
