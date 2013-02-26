@@ -4,3 +4,7 @@ eggs
 develop-eggs
 parts
 .installed.cfg
+www
+var/db
+var/files
+var/log
